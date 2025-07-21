@@ -1,9 +1,10 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+這裡應該會是一個發廢文的地方，想到什麼就寫什麼。
+
+### 關於我
+pdpd123，一個主業是美術設計，副業是電機工程(X)的廢人。有在玩[osu!](https://osu.ppy.sh/)，可能有在聽[藍月なくる](https://www.youtube.com/@AitsukiNakuru)的歌。
+
+### 關於模板
+這個blog是使用 [Fuwari](https://github.com/saicaca/fuwari) 的主題，喜歡這個風格的可以參考他的原始碼：
 
 ::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
